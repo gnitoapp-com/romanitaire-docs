@@ -6,7 +6,7 @@ tags: [privacy policy, docs]
 weight: 2
 ---
 
-Last Updated: 2025-02-01
+Last Updated: 2026-01-28
 
 Welcome to Romanitaire, an application developed by 3827992 Canada Inc, trading as GnitoApp.com. Your privacy is important to us, and this Privacy Policy explains how we collect, use, disclose, and protect your personal information when you use our app. By downloading, installing, or using Romanitaire, you agree to the terms of this Privacy Policy.
 
