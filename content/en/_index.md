@@ -3,7 +3,7 @@ title: Romanitaire Documentation
 ---
 
 {{< blocks/cover title="Welcome to Romanitaire Documentation!" image_anchor="top" height="full" >}}
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="/docs">
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="/romanitaire-docs/docs">
   View Documentation <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 <p class="lead mt-5">Published by <a href="https://gnitoapp.com">
@@ -14,7 +14,7 @@ title: Romanitaire Documentation
 {{% blocks/section type="row" %}}
 <div class="container">
   <div class="row justify-content-center">
-{{% blocks/feature icon="fab fa-bluesky" title="Follow us on Bluesky @forceworkouthelper.com!"
+{{% blocks/feature icon="fab fa-bluesky" title="Follow us on Bluesky @gnitoapp.com!"
     url="https://bsky.app/profile/gnitoapp.com" %}}
 For announcement of latest features etc.
 {{% /blocks/feature %}}
