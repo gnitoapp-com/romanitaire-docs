@@ -13,6 +13,6 @@ draft: false
     </a>
     </p>
 <p>
-<img src="/images/ios-qr-code.png" alt="QR code" />
+<img src="/romanitaire-docs/images/ios-qr-code.png" alt="QR code" />
 </p>
     
